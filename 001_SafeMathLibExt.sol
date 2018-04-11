@@ -1,4 +1,3 @@
-// Created using Token Wizard https://github.com/poanetwork/token-wizard by POA Network 
 /**
  * This smart contract code is Copyright 2017 TokenMarket Ltd. For more information see https://tokenmarket.net
  *
