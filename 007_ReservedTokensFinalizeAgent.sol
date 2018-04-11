@@ -1,4 +1,3 @@
-// Created using Token Wizard https://github.com/poanetwork/token-wizard by POA Network 
 pragma solidity ^0.4.11;
 
 
