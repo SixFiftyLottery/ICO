@@ -1,5 +1,5 @@
 # SixFifty Lottery
-* ICO Crowdsale
+## ICO Crowdsale
 
 ERC20 Token
 * Symbol: SIX
