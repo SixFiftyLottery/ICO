@@ -1,0 +1,35 @@
+Token name: SixFifty
+
+Token ticker: SIX
+
+Token decimals: 0
+
+Multisig wallet address: 0x111C363B811285D9c1a8C3B5C96083926f8f2Ea3
+
+*****************************
+
+Crowdsale rate: 4000
+
+Crowdsale start time: 2018-04-16T09:00 (GMT + 0)
+
+Crowdsale end time: 2018-05-28T09:00 (GMT + 0)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for SIX-Crowdsale: 0x12423Cf217e1C3A9Cdf62D7eA42fd4040108e7dB
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"distributedReservedTokensDestinationsLen","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for SIX-Crowdsale:**** 
+
+000000000000000000000000b180a5e60d0c9a3bff1c9cf0d3c60ecbc64f9e12000000000000000000000000eab0c029b5f8ee7fc4085604d3de2cc738f12cff

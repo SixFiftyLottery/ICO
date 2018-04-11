@@ -1,0 +1,31 @@
+Token name: SixFifty
+
+Token ticker: SIX
+
+Token decimals: 0
+
+Multisig wallet address: 0x111C363B811285D9c1a8C3B5C96083926f8f2Ea3
+
+*****************************
+
+Crowdsale rate: 4000
+
+Crowdsale start time: 2018-04-16T09:00 (GMT + 0)
+
+Crowdsale end time: 2018-05-28T09:00 (GMT + 0)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0x85c528A87EBe9C6b90cf76c11244A49563655e24
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
